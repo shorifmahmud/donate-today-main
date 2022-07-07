@@ -125,3 +125,23 @@ h3 {
     border-radius: 5px;
     background-color: rgb(222, 210, 193);
 }
+
+.title3 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.my-update {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.humble {
+    color: red;
+    font-weight: bolder;
+    height: 150px;
+    text-align: center;
+    background-color: black;
+}
