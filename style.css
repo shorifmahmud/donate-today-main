@@ -35,10 +35,19 @@ h1 {
     color: black;
 }
 
+.donate-area {
+    text-align: center;
+}
+
 .donate-today {
     text-align: center;
     padding: 5%;
     margin-top: 20px;
+}
+
+.donate-plan {
+    text-align: center;
+    margin-top: 10%;
 }
 
 .flex-container {
@@ -72,6 +81,47 @@ h3 {
     margin-top: 40px;
 }
 
-.black-color {
-    color: black;
+.title2 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.section-two {
+    margin-top: 0;
+    padding: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card1 {
+    width: 250px;
+    height: 250px;
+    border: solid;
+    padding: 50px;
+    border-radius: 5px;
+    background-color: rgb(225, 235, 232);
+}
+
+.food-icon {
+    width: 50px;
+}
+
+.card2 {
+    width: 250px;
+    height: 250px;
+    border: solid;
+    padding: 50px;
+    border-radius: 5px;
+    background-color: rgb(244, 236, 238);
+}
+
+.card3 {
+    width: 250px;
+    height: 250px;
+    border: solid;
+    padding: 50px;
+    border-radius: 5px;
+    background-color: rgb(222, 210, 193);
 }
